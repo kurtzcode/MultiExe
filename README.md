@@ -1,4 +1,4 @@
-# 🚀 MultiExe – Bundle Multiple `.exe` Files into One Executable
+#  MultiExe – Bundle Multiple `.exe` Files into One Executable
 
 **MultiExe** is a Python-powered tool that lets you **combine multiple `.exe` programs into a single Windows executable**. Ideal for simplifying software deployment, creating portable app suites, or packaging tools for offline use.
 
