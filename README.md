@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1360308975152660580/1361097213484335195/image.png?ex=67fd840f&is=67fc328f&hm=65967b9dd7757ae34944593968f34ae58ab84d6bb0215fb91c4871ade6a06d74" alt="SpyID Banner" width="600"/>
+  <img src="https://i.imgur.com/5iKrt9P.png" alt="SpyID Banner" width="600"/>
 </p>
 
 ## ✨ Features
